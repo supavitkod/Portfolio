@@ -11,7 +11,7 @@ hero:
       text: Visualization Showcase
       link: /dashboard
     - theme: alt
-      text: SQL Showcase
+      text: SQL Projects
       link: /sql
     - theme: alt
       text: Python Projects
@@ -20,7 +20,7 @@ hero:
 ---
 # My brief profile
 
-As a _skilled and driven_ data analyst, I am passionate about transforming complex data into valuable insights and strategies. My expertise lies in building data-driven dashboards and visualizations using a combination of **Python**, **SQL**, and **Power BI**.
+As a _skilled and driven_ data analyst, I am passionate about transforming complex data into valuable insights and strategies. My expertise lies in building data-driven dashboards and visualizations using a combination of **Python**, **SQL**, and **Power BI (with DAX)**.
 
 My journey in the field of data analysis began during my time at Mahidol University International College, where I graduated with a Bachelor of Business Administration in Finance. Through various coursework and projects, I honed my analytical skills and developed a strong foundation in data analysis.
 
