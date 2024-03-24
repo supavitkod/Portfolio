@@ -3,23 +3,21 @@
 layout: home
 
 hero:
-  name: "Supavit's Portfolio"
-  text: "Explore my data analysis portfolio! Discover how I turn raw data into actionable insights through visualization and predictive modeling. Let's dive into the world of data together!"
-  tagline: My great project tagline
+  name: "Supavit's Playground"
+  text: "Welcome to my data analysis portfolio!"
+  tagline: Dive in to see how I transform raw data into valuable insights through visualization and modeling.
   actions:
-    - theme: brand
-      text: Markdown Examples
+    - theme: alt
+      text: Visualization Showcase
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: SQL Showcase
       link: /api-examples
+    - theme: alt
+      text: Python Projects
+      link: /markdown-examples
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+# My brief profile
 
+Here's where you put your brief details about yourself _Benz_ Welcome to InsightfulDataAnalysis.com, your gateway to exploring the fascinating world of data analysis! Here, you'll find a curated collection of projects showcasing my expertise in transforming raw data into actionable insights. Through visualization and modeling, I unlock the hidden potential within datasets, providing valuable insights to drive informed decision-making. Join me on this journey through data as we uncover patterns, trends, and opportunities together. Let's dive in and discover the power of data analysis!

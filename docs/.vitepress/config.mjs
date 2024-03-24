@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Supavit's Portfolio",
-  description: "Explore my data analysis portfolio! Discover how I turn raw data into actionable insights through visualization and predictive modeling. Let's dive into the world of data together!",
+  title: "Supavit's Playground",
+  description: "Welcome to my data analysis portfolio! Dive in to see how I transform raw data into valuable insights through visualization and modeling.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
