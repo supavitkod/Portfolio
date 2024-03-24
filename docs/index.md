@@ -9,13 +9,13 @@ hero:
   actions:
     - theme: alt
       text: Visualization Showcase
-      link: /markdown-examples
+      link: /dashboard
     - theme: alt
       text: SQL Showcase
-      link: /api-examples
+      link: /sql
     - theme: alt
       text: Python Projects
-      link: /markdown-examples
+      link: /python
 
 ---
 # My brief profile
