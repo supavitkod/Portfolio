@@ -6,7 +6,6 @@
   "author": "Pornwipa Nilbodee <pornwipa.nil@gmail.com>",
   "license": "MIT",
   "private": true,
-  "type": "module",
   "devDependencies": {
     "vitepress": "^1.0.1"
   },
