@@ -8,20 +8,24 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Visualization', link: '/dashboard' },
+      { text: 'SQL', link: '/sql' },
+      { text: 'Python', link: '/python' },
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Portfolio',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Visualization Showcase', link: '/dashboard' },
+          { text: 'SQL Projects', link: '/sql' },
+          { text: 'Python Projects', link: '/python'}
         ]
       }
     ],
 
     socialLinks: [
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/supavitkodchakorn/' },
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   },
