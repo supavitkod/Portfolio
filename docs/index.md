@@ -20,4 +20,12 @@ hero:
 ---
 # My brief profile
 
-Here's where you put your brief details about yourself _Benz_ Welcome to InsightfulDataAnalysis.com, your gateway to exploring the fascinating world of data analysis! Here, you'll find a curated collection of projects showcasing my expertise in transforming raw data into actionable insights. Through visualization and modeling, I unlock the hidden potential within datasets, providing valuable insights to drive informed decision-making. Join me on this journey through data as we uncover patterns, trends, and opportunities together. Let's dive in and discover the power of data analysis!
+As a _skilled and driven_ data analyst, I am passionate about transforming complex data into valuable insights and strategies. My expertise lies in building data-driven dashboards and visualizations using a combination of **Python**, **SQL**, and **Power BI**.
+
+My journey in the field of data analysis began during my time at Mahidol University International College, where I graduated with a Bachelor of Business Administration in Finance. Through various coursework and projects, I honed my analytical skills and developed a strong foundation in data analysis.
+
+After graduation, I joined a reputable company as a data analyst, where I have had the opportunity to work on a wide range of projects and collaborate with cross-functional teams. My experience has allowed me to gain a deep understanding of data analysis techniques and tools, as well as the ability to effectively communicate complex data to non-technical stakeholders.
+
+I am constantly seeking new challenges and opportunities to expand my skills and knowledge in the ever-evolving field of data analytics. I am a _quick learner_ and thrive in _fast-paced environments_, making me _adaptable_ to any project or task.
+
+In addition to my technical skills, I am a strong _team player_ with excellent communication and _problem-solving abilities_. I am also highly organized and detail-oriented, ensuring accuracy and efficiency in my work.
