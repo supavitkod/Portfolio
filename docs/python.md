@@ -1,85 +1,20 @@
-# Markdown Extension Examples
+## Credit Analysis
+### Project Description
+put your description here
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+### Source Code
+[GitHub](https://github.com/supavitkod/portfolio/tree/vitepress-init/python)
 
-## Syntax Highlighting
+## Second Project
+### Project Description
+put your description here
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
+### Source Code
+[GitHub](https://github.com/supavitkod/portfolio/tree/vitepress-init/python)
 
-**Input**
+## Third Project
+### Project Description
+put your description here
 
-````md
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-````
-
-**Output**
-
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-
-## Custom Containers
-
-**Input**
-
-```md
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-```
-
-**Output**
-
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-
-## More
-
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+### Source Code
+[GitHub](https://github.com/supavitkod/portfolio/tree/vitepress-init/python)
